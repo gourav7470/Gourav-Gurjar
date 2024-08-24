@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gourav-Gurjar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="2wCEAAkGBxISEhUSEBIWFRUXGBcYFRgVGRYXFRgYFhgZGxgXFhcYHSggHRolHhgVIjEhJTUrLi4uFx8zODMsOygtLisBCgoKDg0OGxAQGy8mICYwLS8tLS0tLS0tLy0vLS0tLS0vLTYvLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourav7470&label=Profile%20views&color=0e75b6&style=flat" alt="gourav7470" /> </p>
 
